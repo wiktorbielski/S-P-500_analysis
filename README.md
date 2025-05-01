@@ -1,51 +1,40 @@
-# S&P 500 Daily Stock Data Extraction and Analysis
+# S&P 500 Stock Analysis Project
 
-This script is designed to extract daily stock information for the S&P 500 index from the website [Slickcharts](https://www.slickcharts.com/sp500). It gathers the daily stock data, including stock names, tickers, and other relevant metrics, and creates a structured dataset for further analysis.
+This project extracts, analyzes, and visualizes data from the S&P 500 stock market index. The workflow includes the following steps:
 
-## Features
+## Data Collection
+- Scrapes S&P 500 data from [slickcharts.com](https://www.slickcharts.com/sp500).
+- Saves the data to CSV files with company details, stock price, weight, and performance.
+- Merges multiple CSV files over time for long-term analysis.
 
-- **Web Scraping**: The script uses Python libraries like `requests` and `BeautifulSoup` to scrape real-time stock data from the S&P 500 table.
-  
-- **Data Processing**: The script extracts the stock data from the table and organizes it into a pandas DataFrame.
-  
-- **Date Assignment**: Each extracted stock data entry is tagged with today's date for easy tracking of daily stock changes.
+## Key Analysis and Visualizations
 
-## Libraries Used
+### 1. Top Gainers and Losers (Last 14 Days)
+- Extracts the top 10 gainers and losers from the last 14 days based on percent change.
+- Visualizes the results in bar charts.
 
-- **requests**: Used to send HTTP requests to the website and retrieve the HTML content.
-  
-- **BeautifulSoup**: Used for parsing the HTML content and extracting relevant data from the table.
-  
-- **pandas**: Provides the DataFrame structure for storing and analyzing the extracted data.
-  
-- **datetime**: Used to capture today's date and assign it to the extracted data for proper timestamping.
+### 2. Top 20 Weight Companies in S&P 500
+- Identifies the top 20 companies by index weight.
+- Analyzes the price trends and computes the difference between their minimum and maximum stock prices.
+- Visualizes the companies with color-coded bars representing price volatility.
 
-## Script Flow
+### 3. Stock Price Trends for Top 100 Companies
+- Analyzes the stock price trends for the top 100 S&P 500 companies by average weight.
+- Normalizes stock prices (base = 100 at the first available date) and visualizes the trends over time across multiple subplots.
 
-1. **Request Data**:  
-   The script sends a `GET` request to the S&P 500 data page at [Slickcharts](https://www.slickcharts.com/sp500).
+## Technologies Used:
+- Python (Requests, Pandas, BeautifulSoup)
+- Data Visualization (Matplotlib, Seaborn)
 
-2. **Parse HTML**:  
-   The HTML content of the page is parsed using `BeautifulSoup` to find the table containing the stock data.
+## Requirements:
+To install the required dependencies, run:
 
-3. **Extract Data**:  
-   The script extracts the table headers and the corresponding stock data (including stock names, tickers, and metrics).
+## Output:
+- CSV files for stock data and analysis results.
+- Interactive visualizations displaying stock trends and performance.
 
-4. **Create DataFrame**:  
-   The extracted data is structured into a pandas DataFrame with the appropriate column names.
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-5. **Date Assignment**:  
-   The current date is added as a new column to each row in the DataFrame, allowing for daily tracking.
-
-6. **Data Display**:  
-   The DataFrame with today's stock data is displayed for review.
-
-## Example Output
-
-The output DataFrame will contain columns like the following:
-
-```text
-      Name          Ticker    Weight       Date
-0   Apple Inc.     AAPL      6.5%   2025-04-18
-1   Microsoft      MSFT      5.0%   2025-04-18
-...
+## Acknowledgments:
+- [Slickcharts](https://www.slickcharts.com/sp500) for the S&P 500 data.
