@@ -26,15 +26,6 @@ This project extracts, analyzes, and visualizes data from the S&P 500 stock mark
 - Python (Requests, Pandas, BeautifulSoup)
 - Data Visualization (Matplotlib, Seaborn)
 
-## Requirements:
-To install the required dependencies, run:
-
 ## Output:
 - CSV files for stock data and analysis results.
 - Interactive visualizations displaying stock trends and performance.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments:
-- [Slickcharts](https://www.slickcharts.com/sp500) for the S&P 500 data.
