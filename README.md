@@ -1,31 +1,55 @@
-# S&P 500 Stock Analysis Project
+# 📈 S&P 500 Stock Analysis Project
 
-This project extracts, analyzes, and visualizes data from the S&P 500 stock market index. The workflow includes the following steps:
+This project extracts, analyzes, and visualizes data from the S&P 500 stock market index using Python. The workflow includes data scraping, transformation, and insightful visualizations.
 
-## Data Collection
-- Scrapes S&P 500 data from [slickcharts.com](https://www.slickcharts.com/sp500).
-- Saves the data to CSV files with company details, stock price, weight, and performance.
-- Merges multiple CSV files over time for long-term analysis.
+---
 
-## Key Analysis and Visualizations
+## 📊 Data Collection
 
-### 1. Top Gainers and Losers (Last 14 Days)
-- Extracts the top 10 gainers and losers from the last 14 days based on percent change.
-- Visualizes the results in bar charts.
+- Scrapes S&P 500 data from [slickcharts.com](https://www.slickcharts.com/sp500)
+- Saves the data to CSV files with company details, stock price, weight, and performance
+- Merges multiple CSV files over time for long-term trend analysis
 
-### 2. Top 20 Weight Companies in S&P 500
-- Identifies the top 20 companies by index weight.
-- Analyzes the price trends and computes the difference between their minimum and maximum stock prices.
-- Visualizes the companies with color-coded bars representing price volatility.
+---
 
-### 3. Stock Price Trends for Top 100 Companies
-- Analyzes the stock price trends for the top 100 S&P 500 companies by average weight.
-- Normalizes stock prices (base = 100 at the first available date) and visualizes the trends over time across multiple subplots.
+## 🔍 Key Analysis and Visualizations
 
-## Technologies Used:
-- Python (Requests, Pandas, BeautifulSoup)
-- Data Visualization (Matplotlib, Seaborn)
+### 1. 🟢 Top Gainers and 🔴 Losers (Last 14 Days)
+- Extracts the top 10 gainers and losers based on percentage change over the last 14 days
+- Visualizes results using bar charts  
+- 📄 **Notebook:** [`s&p500_top10_gainers_and_losers.ipynb`](./s&p500_top10_gainers_and_losers.ipynb)
 
-## Output:
-- CSV files for stock data and analysis results.
-- Interactive visualizations displaying stock trends and performance.
+---
+
+### 2. 🏢 Top 20 Weight Companies in S&P 500
+- Identifies top 20 companies by index weight
+- Analyzes stock price volatility (difference between max and min prices)
+- Visualizes results with color-coded bar charts  
+- 📄 **Notebook:** [`s&p500_top20_weight_comapnies.ipynb`](./s&p500_top20_weight_comapnies.ipynb)
+
+---
+
+### 3. 📉 Stock Price Trends for Top 100 Companies
+- Analyzes normalized stock price trends (base = 100) for top 100 companies by average weight
+- Visualizes multi-line plots across subplots for better readability  
+- 📄 **Notebook:** [`s&p500_top100_stock_price_trends.ipynb`](./s&p500_top100_stock_price_trends.ipynb)
+
+---
+
+## 🛠️ Technologies Used
+
+- Python: `requests`, `pandas`, `BeautifulSoup`
+- Visualization: `matplotlib`, `seaborn`
+- Jupyter Notebook
+
+---
+
+## 📂 Output
+
+- Cleaned and merged CSV datasets
+- Interactive and static data visualizations
+- Actionable insights into S&P 500 stock dynamics
+
+---
+
+Feel free to explore the notebooks to see how the analysis was conducted step by step!
