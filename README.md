@@ -9,7 +9,7 @@ This project extracts, analyzes, and visualizes data from the S&P 500 stock mark
 - Scrapes S&P 500 data from [slickcharts.com](https://www.slickcharts.com/sp500)
 - Saves the data to CSV files with company details, stock price, weight, and performance
 - Merges multiple CSV files over time for long-term trend analysis
-- 📄 **Notebook:** [`s&p500_web_scraping.ipynb`](./s&p500_web_scraping.ipynb`)
+- 📄 **Notebook:** [`s&p500_web_scraping.ipynb`](./s&p500_web_scraping.ipynb)
   
 ---
 
