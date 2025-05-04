@@ -1,0 +1,504 @@
+#;Company;Symbol;Weight;Price;Chg;% Chg;Date
+1;Apple Inc.;AAPL;6.52%;196.98;2.71;(1.39%);2025-04-18
+2;Microsoft Corp;MSFT;6.17%;367.78;-3.83;(-1.03%);2025-04-18
+3;Nvidia Corp;NVDA;5.72%;101.49;-3.00;(-2.87%);2025-04-18
+4;Amazon.com Inc;AMZN;3.67%;172.61;-1.72;(-0.99%);2025-04-18
+5;Meta Platforms, Inc. Class A;META;2.46%;501.48;-0.83;(-0.17%);2025-04-18
+6;Berkshire Hathaway Class B;BRK.B;2.12%;518.21;1.76;(0.34%);2025-04-18
+7;Alphabet Inc. Class A;GOOGL;2.00%;151.16;-2.17;(-1.42%);2025-04-18
+8;Broadcom Inc.;AVGO;1.83%;170.99;-3.62;(-2.07%);2025-04-18
+9;Alphabet Inc. Class C;GOOG;1.64%;153.36;-2.14;(-1.38%);2025-04-18
+10;Tesla, Inc.;TSLA;1.51%;241.37;-0.18;(-0.07%);2025-04-18
+11;Jpmorgan Chase & Co.;JPM;1.43%;231.96;2.35;(1.02%);2025-04-18
+12;Eli Lilly & Co.;LLY;1.29%;839.96;105.06;(14.30%);2025-04-18
+13;Visa Inc.;V;1.28%;329.61;-1.72;(-0.52%);2025-04-18
+14;Unitedhealth Group Incorporated;UNH;1.20%;454.11;-130.93;(-22.38%);2025-04-18
+15;Exxon Mobil Corporation;XOM;1.01%;106.92;2.73;(2.62%);2025-04-18
+16;Costco Wholesale Corp;COST;0.96%;994.50;26.75;(2.76%);2025-04-18
+17;Mastercard Incorporated;MA;0.93%;517.33;3.90;(0.76%);2025-04-18
+18;Netflix Inc;NFLX;0.92%;973.03;11.40;(1.19%);2025-04-18
+19;Walmart Inc.;WMT;0.88%;93.22;2.03;(2.23%);2025-04-18
+20;Procter & Gamble Company;PG;0.87%;170.63;4.24;(2.55%);2025-04-18
+21;Johnson & Johnson;JNJ;0.83%;157.47;3.56;(2.31%);2025-04-18
+22;Home Depot, Inc.;HD;0.77%;355.06;9.07;(2.62%);2025-04-18
+23;Abbvie Inc.;ABBV;0.68%;172.99;1.31;(0.76%);2025-04-18
+24;Coca-Cola Company;KO;0.62%;73.00;1.32;(1.84%);2025-04-18
+25;Philip Morris International Inc.;PM;0.56%;163.21;2.73;(1.70%);2025-04-18
+26;Bank of America Corporation;BAC;0.55%;37.41;0.08;(0.21%);2025-04-18
+27;Salesforce, Inc.;CRM;0.53%;247.26;-2.58;(-1.03%);2025-04-18
+28;Chevron Corporation;CVX;0.51%;137.87;2.51;(1.85%);2025-04-18
+29;Abbott Laboratories;ABT;0.50%;130.98;1.28;(0.99%);2025-04-18
+30;Cisco Systems, Inc.;CSCO;0.50%;55.76;0.00;(0.00%);2025-04-18
+31;Mcdonald's Corporation;MCD;0.50%;311.30;2.20;(0.71%);2025-04-18
+32;International Business Machines Corporation;IBM;0.49%;238.81;0.24;(0.10%);2025-04-18
+33;Linde Plc;LIN;0.48%;452.12;4.13;(0.92%);2025-04-18
+34;Oracle Corp;ORCL;0.47%;128.62;-1.14;(-0.88%);2025-04-18
+35;Wells Fargo & Co.;WFC;0.47%;64.71;0.73;(1.14%);2025-04-18
+36;Ge Aerospace;GE;0.44%;181.79;-0.66;(-0.36%);2025-04-18
+37;At&t Inc.;T;0.43%;27.15;0.13;(0.48%);2025-04-18
+38;Merck & Co., Inc.;MRK;0.43%;78.00;1.54;(2.01%);2025-04-18
+39;Pepsico, Inc.;PEP;0.43%;142.84;2.75;(1.96%);2025-04-18
+40;Palantir Technologies Inc. Class A;PLTR;0.42%;93.78;1.07;(1.15%);2025-04-18
+41;Verizon Communications;VZ;0.41%;44.04;0.43;(0.99%);2025-04-18
+42;Accenture Plc;ACN;0.40%;282.35;-2.89;(-1.01%);2025-04-18
+43;Rtx Corporation;RTX;0.38%;128.89;-0.36;(-0.28%);2025-04-18
+44;Intuitive Surgical Inc.;ISRG;0.38%;482.74;1.40;(0.29%);2025-04-18
+45;Thermo Fisher Scientific, Inc.;TMO;0.37%;427.50;-9.29;(-2.13%);2025-04-18
+46;Intuit Inc;INTU;0.37%;585.38;-2.70;(-0.46%);2025-04-18
+47;Servicenow, Inc.;NOW;0.37%;772.16;-24.50;(-3.08%);2025-04-18
+48;Progressive Corporation;PGR;0.36%;265.45;-9.68;(-3.52%);2025-04-18
+49;Goldman Sachs Group Inc.;GS;0.35%;509.49;10.44;(2.09%);2025-04-18
+50;Uber Technologies, Inc.;UBER;0.34%;75.24;2.18;(2.98%);2025-04-18
+51;Amgen Inc;AMGN;0.34%;277.29;-5.35;(-1.89%);2025-04-18
+52;Booking Holdings Inc.;BKNG;0.34%;4,573.31;32.47;(0.72%);2025-04-18
+53;Qualcomm Inc;QCOM;0.34%;136.66;0.92;(0.68%);2025-04-18
+54;Adobe Inc.;ADBE;0.33%;348.80;4.61;(1.34%);2025-04-18
+55;The Walt Disney Company;DIS;0.33%;84.81;2.04;(2.46%);2025-04-18
+56;S&p Global Inc.;SPGI;0.33%;462.88;-1.10;(-0.24%);2025-04-18
+57;Advanced Micro Devices;AMD;0.32%;87.50;-0.79;(-0.89%);2025-04-18
+58;Tjx Companies, Inc.;TJX;0.32%;127.62;1.31;(1.04%);2025-04-18
+59;American Express Company;AXP;0.31%;251.31;-1.61;(-0.64%);2025-04-18
+60;Boston Scientific Corp.;BSX;0.31%;95.12;-0.13;(-0.14%);2025-04-18
+61;Caterpillar Inc.;CAT;0.31%;294.25;4.11;(1.42%);2025-04-18
+62;Nextra Energy, Inc.;NEE;0.30%;66.31;0.67;(1.02%);2025-04-18
+63;Morgan Stanley;MS;0.30%;109.18;1.32;(1.22%);2025-04-18
+64;Texas Instruments Incorporated;TXN;0.30%;148.44;1.89;(1.29%);2025-04-18
+65;Union Pacific Corp.;UNP;0.29%;220.26;3.66;(1.69%);2025-04-18
+66;Gilead Sciences Inc;GILD;0.29%;104.54;-0.34;(-0.32%);2025-04-18
+67;The Charles Schwab Corporation;SCHW;0.29%;76.15;0.45;(0.59%);2025-04-18
+68;Comcast Corp;CMCSA;0.28%;34.01;0.46;(1.37%);2025-04-18
+69;Blackrock, Inc.;BLK;0.28%;875.78;10.00;(1.16%);2025-04-18
+70;Honeywell International, Inc.;HON;0.28%;196.60;3.32;(1.72%);2025-04-18
+71;Pfizer Inc.;PFE;0.28%;22.14;0.10;(0.45%);2025-04-18
+72;Vertex Pharmaceuticals Inc;VRTX;0.28%;489.10;3.21;(0.66%);2025-04-18
+73;T-Mobile Us, Inc.;TMUS;0.28%;262.04;2.40;(0.92%);2025-04-18
+74;Danaher Corporation;DHR;0.27%;186.83;-3.83;(-2.01%);2025-04-18
+75;Lowe's Companies Inc.;LOW;0.27%;219.00;4.59;(2.14%);2025-04-18
+76;Automatic Data Processing;ADP;0.27%;293.28;-0.86;(-0.29%);2025-04-18
+77;Fiserv, Inc.;FI;0.27%;208.66;-1.45;(-0.69%);2025-04-18
+78;Stryker Corporation;SYK;0.27%;346.50;-0.17;(-0.05%);2025-04-18
+79;Boeing Company;BA;0.26%;161.90;5.43;(3.47%);2025-04-18
+80;Citigroup Inc.;C;0.26%;63.25;1.15;(1.85%);2025-04-18
+81;Deere & Company;DE;0.26%;452.07;-0.35;(-0.08%);2025-04-18
+82;Marsh & Mclennan Companies, Inc.;MMC;0.25%;220.07;-11.25;(-4.86%);2025-04-18
+83;Palo Alto Networks, Inc.;PANW;0.25%;167.69;-2.07;(-1.22%);2025-04-18
+84;Applied Materials Inc;AMAT;0.25%;137.46;-0.73;(-0.53%);2025-04-18
+85;Conocophillips;COP;0.25%;88.98;2.62;(3.03%);2025-04-18
+86;Eaton Corporation, Plcs;ETN;0.24%;268.32;-0.84;(-0.31%);2025-04-18
+87;Chubb Limited;CB;0.24%;285.59;0.52;(0.18%);2025-04-18
+88;Medtronic Plc;MDT;0.24%;82.60;-0.10;(-0.12%);2025-04-18
+89;American Tower Corporation;AMT;0.23%;222.66;4.66;(2.14%);2025-04-18
+90;Elevance Health, Inc.;ELV;0.23%;424.53;-10.51;(-2.42%);2025-04-18
+91;Bristol-Myers Squibb Co.;BMY;0.22%;49.23;-0.13;(-0.26%);2025-04-18
+92;Lockheed Martin Corp.;LMT;0.22%;464.08;-13.00;(-2.72%);2025-04-18
+93;The Southern Company;SO;0.22%;91.81;1.34;(1.48%);2025-04-18
+94;Altria Group, Inc.;MO;0.22%;58.16;0.89;(1.55%);2025-04-18
+95;Blackstone Inc.;BX;0.21%;130.39;1.01;(0.78%);2025-04-18
+96;Cme Group Inc.;CME;0.21%;262.53;1.14;(0.44%);2025-04-18
+97;Crowdstrike Holdings, Inc. Class A;CRWD;0.21%;375.62;-4.22;(-1.11%);2025-04-18
+98;Duke Energy Corporation;DUK;0.21%;121.80;1.45;(1.20%);2025-04-18
+99;Prologis, Inc.;PLD;0.21%;102.10;1.81;(1.80%);2025-04-18
+100;Starbucks Corp;SBUX;0.21%;81.50;0.74;(0.92%);2025-04-18
+101;Intercontinental Exchange  Inc.;ICE;0.20%;158.64;0.20;(0.13%);2025-04-18
+102;Ge Vernova Inc.;GEV;0.20%;323.55;-4.61;(-1.40%);2025-04-18
+103;The Cigna Group;CI;0.20%;330.13;0.69;(0.21%);2025-04-18
+104;Welltower Inc.;WELL;0.20%;147.27;1.64;(1.13%);2025-04-18
+105;Analog Devices, Inc.;ADI;0.20%;176.27;0.34;(0.19%);2025-04-18
+106;Mckesson Corporation;MCK;0.19%;697.08;2.38;(0.34%);2025-04-18
+107;Cvs Health Corporation;CVS;0.19%;67.29;-1.26;(-1.84%);2025-04-18
+108;Mondelez International, Inc. Class A;MDLZ;0.19%;67.32;0.84;(1.26%);2025-04-18
+109;Kla Corporation;KLAC;0.19%;634.43;-7.76;(-1.21%);2025-04-18
+110;Arthur J. Gallagher & Co.;AJG;0.19%;329.22;-3.44;(-1.03%);2025-04-18
+111;Waste Management, Inc.;WM;0.19%;230.91;1.34;(0.58%);2025-04-18
+112;Lam Research Corp;LRCX;0.19%;63.76;-1.38;(-2.12%);2025-04-18
+113;Intel Corp;INTC;0.19%;18.93;-0.30;(-1.56%);2025-04-18
+114;Aon Plc Class A;AON;0.18%;367.41;-5.41;(-1.45%);2025-04-18
+115;Amphenol Corporation;APH;0.18%;65.06;0.29;(0.45%);2025-04-18
+116;O'reilly Automotive, Inc.;ORLY;0.18%;1,390.90;26.54;(1.95%);2025-04-18
+117;Micron Technology, Inc.;MU;0.17%;68.80;-0.53;(-0.76%);2025-04-18
+118;The Sherwin-Williams Company;SHW;0.17%;333.38;2.10;(0.63%);2025-04-18
+119;Equinix, Inc. Reit;EQIX;0.17%;790.15;11.48;(1.47%);2025-04-18
+120;Colgate-Palmolive Company;CL;0.17%;95.50;2.01;(2.15%);2025-04-18
+121;Transdigm Group Incorporated;TDG;0.17%;1,337.66;1.36;(0.10%);2025-04-18
+122;Arista Networks;ANET;0.17%;71.20;-0.67;(-0.93%);2025-04-18
+123;Trane Technologies Plc;TT;0.17%;333.16;2.52;(0.76%);2025-04-18
+124;Northrop Grumman Corp.;NOC;0.16%;540.39;2.88;(0.54%);2025-04-18
+125;Parker-Hannifin Corporation;PH;0.16%;561.00;1.55;(0.28%);2025-04-18
+126;Cadence Design Systems;CDNS;0.16%;260.22;0.96;(0.37%);2025-04-18
+127;Williams Companies Inc.;WMB;0.16%;58.62;0.36;(0.62%);2025-04-18
+128;3m Company;MMM;0.16%;130.21;-0.25;(-0.19%);2025-04-18
+129;Motorola Solutions, Inc.;MSI;0.16%;420.95;0.50;(0.12%);2025-04-18
+130;General Dynamics Corporation;GD;0.16%;276.08;-0.55;(-0.20%);2025-04-18
+131;Cintas Corp;CTAS;0.16%;205.76;1.04;(0.51%);2025-04-18
+132;United Parcel Service, Inc. Class B;UPS;0.15%;96.43;2.23;(2.37%);2025-04-18
+133;Kkr & Co. Inc.;KKR;0.15%;103.37;1.32;(1.29%);2025-04-18
+134;Moody's Corporation;MCO;0.15%;424.86;-0.83;(-0.19%);2025-04-18
+135;Zoetis Inc.;ZTS;0.15%;148.67;1.91;(1.30%);2025-04-18
+136;Chipotle Mexican Grill, Inc.;CMG;0.15%;48.17;0.09;(0.19%);2025-04-18
+137;Synopsys Inc;SNPS;0.14%;413.32;-2.33;(-0.56%);2025-04-18
+138;Constellation Energy Corporation;CEG;0.14%;206.68;2.49;(1.22%);2025-04-18
+139;Newmont Corporation;NEM;0.14%;55.08;-0.87;(-1.55%);2025-04-18
+140;Nike, Inc.;NKE;0.14%;55.76;2.21;(4.13%);2025-04-18
+141;Illinois Tool Works Inc.;ITW;0.14%;230.84;1.04;(0.45%);2025-04-18
+142;Fortinet, Inc.;FTNT;0.14%;96.13;0.06;(0.06%);2025-04-18
+143;Capital One Financial;COF;0.14%;162.77;2.71;(1.69%);2025-04-18
+144;Eog Resources, Inc.;EOG;0.14%;110.50;2.26;(2.09%);2025-04-18
+145;Doordash, Inc. Class A;DASH;0.14%;181.24;1.85;(1.03%);2025-04-18
+146;Pnc Financial Services Group;PNC;0.13%;152.33;0.79;(0.52%);2025-04-18
+147;Autozone, Inc.;AZO;0.13%;3,603.47;36.61;(1.03%);2025-04-18
+148;Roper Technologies, Inc.;ROP;0.13%;557.24;0.97;(0.17%);2025-04-18
+149;Paypal Holdings, Inc.;PYPL;0.13%;61.00;0.76;(1.26%);2025-04-18
+150;Ecolab, Inc.;ECL;0.13%;238.73;2.77;(1.17%);2025-04-18
+151;Hca Healthcare, Inc.;HCA;0.13%;335.01;4.01;(1.21%);2025-04-18
+152;U.S. Bancorp;USB;0.13%;38.20;0.38;(1.00%);2025-04-18
+153;Air Products & Chemicals, Inc.;APD;0.13%;262.90;1.58;(0.60%);2025-04-18
+154;Regeneron Pharmaceuticals Inc;REGN;0.13%;563.16;13.88;(2.53%);2025-04-18
+155;Becton, Dickinson and Co.;BDX;0.13%;198.71;-1.69;(-0.84%);2025-04-18
+156;The Travelers Companies, Inc.;TRV;0.13%;255.86;3.38;(1.34%);2025-04-18
+157;American Electric Power Company, Inc.;AEP;0.13%;107.71;1.79;(1.69%);2025-04-18
+158;Apollo Global Management, Inc.;APO;0.13%;126.78;1.57;(1.25%);2025-04-18
+159;Autodesk Inc;ADSK;0.13%;259.47;-0.69;(-0.27%);2025-04-18
+160;Emerson Electric Co.;EMR;0.12%;99.57;0.90;(0.91%);2025-04-18
+161;Bank of New York Mellon Corporation;BK;0.12%;76.34;0.61;(0.81%);2025-04-18
+162;Aflac Inc.;AFL;0.12%;107.44;0.10;(0.09%);2025-04-18
+163;Csx Corporation;CSX;0.12%;27.68;0.33;(1.21%);2025-04-18
+164;Oneok, Inc.;OKE;0.12%;86.23;1.43;(1.69%);2025-04-18
+165;Copart Inc;CPRT;0.12%;59.68;0.24;(0.40%);2025-04-18
+166;Kinder Morgan, Inc.;KMI;0.12%;27.10;0.15;(0.56%);2025-04-18
+167;The Allstate Corporation;ALL;0.12%;194.66;0.42;(0.22%);2025-04-18
+168;Johnson Controls International Plc;JCI;0.11%;76.83;0.17;(0.22%);2025-04-18
+169;Hilton Worldwide Holdings Inc.;HLT;0.11%;210.45;1.36;(0.65%);2025-04-18
+170;Howmet Aerospace Inc.;HWM;0.11%;123.23;-0.70;(-0.56%);2025-04-18
+171;Realty Income Corporation;O;0.11%;58.32;1.06;(1.85%);2025-04-18
+172;Marriot International Class A;MAR;0.11%;220.41;1.62;(0.74%);2025-04-18
+173;Republic Services Inc.;RSG;0.11%;243.28;-0.33;(-0.14%);2025-04-18
+174;Cencora, Inc.;COR;0.11%;286.74;2.30;(0.81%);2025-04-18
+175;Airbnb, Inc. Class A;ABNB;0.11%;112.70;0.06;(0.05%);2025-04-18
+176;Workday, Inc. Class A;WDAY;0.11%;221.02;-6.69;(-2.94%);2025-04-18
+177;Norfolk Southern Corp.;NSC;0.11%;219.84;5.81;(2.71%);2025-04-18
+178;American International Group, Inc.;AIG;0.11%;81.14;0.17;(0.21%);2025-04-18
+179;Freeport-Mcmoran Inc.;FCX;0.11%;32.90;-0.42;(-1.26%);2025-04-18
+180;Schlumberger Limited;SLB;0.11%;35.11;0.96;(2.81%);2025-04-18
+181;Carrier Global Corporation;CARR;0.11%;59.90;0.71;(1.20%);2025-04-18
+182;Royal Caribbean Group;RCL;0.11%;192.69;0.99;(0.52%);2025-04-18
+183;Truist Financial Corporation;TFC;0.11%;35.90;-0.10;(-0.28%);2025-04-18
+184;Digital Realty Trust, Inc.;DLR;0.10%;150.75;2.57;(1.73%);2025-04-18
+185;Exelon Corporation;EXC;0.10%;47.26;0.75;(1.61%);2025-04-18
+186;Paychex Inc;PAYX;0.10%;144.90;-0.67;(-0.46%);2025-04-18
+187;Kimberly-Clark Corp.;KMB;0.10%;142.81;3.11;(2.23%);2025-04-18
+188;Fair Isaac Corporation;FICO;0.10%;1,908.69;8.91;(0.47%);2025-04-18
+189;Fastenal Co;FAST;0.10%;81.58;1.13;(1.40%);2025-04-18
+190;The Kroger Co.;KR;0.10%;71.22;2.21;(3.20%);2025-04-18
+191;Ross Stores Inc;ROST;0.10%;139.63;0.95;(0.69%);2025-04-18
+192;Public Storage;PSA;0.10%;296.01;6.98;(2.41%);2025-04-18
+193;Paccar Inc;PCAR;0.10%;88.17;1.36;(1.57%);2025-04-18
+194;Simon Property Group, Inc.;SPG;0.10%;150.40;2.35;(1.59%);2025-04-18
+195;Fedex Corporation;FDX;0.10%;207.55;3.99;(1.96%);2025-04-18
+196;Dominion Energy, Inc;D;0.10%;53.17;0.11;(0.21%);2025-04-18
+197;Sempra;SRE;0.10%;71.12;0.73;(1.04%);2025-04-18
+198;Ameriprise Financial, Inc.;AMP;0.10%;464.56;1.34;(0.29%);2025-04-18
+199;Crown Castle Inc.;CCI;0.10%;103.59;2.34;(2.31%);2025-04-18
+200;General Motors Company;GM;0.10%;44.57;0.35;(0.79%);2025-04-18
+201;W.W. Grainger, Inc.;GWW;0.10%;1,002.69;17.36;(1.76%);2025-04-18
+202;Kenvue Inc.;KVUE;0.10%;23.39;0.66;(2.90%);2025-04-18
+203;Nxp Semiconductors N.v.;NXPI;0.10%;170.74;2.15;(1.28%);2025-04-18
+204;Msci, Inc.;MSCI;0.09%;546.89;4.33;(0.80%);2025-04-18
+205;Keurig Dr Pepper Inc.;KDP;0.09%;35.40;0.29;(0.83%);2025-04-18
+206;Edwards Lifesciences Corp;EW;0.09%;71.53;0.33;(0.46%);2025-04-18
+207;Metlife, Inc.;MET;0.09%;72.55;0.85;(1.19%);2025-04-18
+208;Axon Enterprise, Inc.;AXON;0.09%;559.53;-12.32;(-2.15%);2025-04-18
+209;Target Corporation;TGT;0.09%;93.11;2.65;(2.93%);2025-04-18
+210;Public Service Enterprise Group Incorporated;PEG;0.09%;83.36;0.33;(0.40%);2025-04-18
+211;Verisk Analytics, Inc.;VRSK;0.09%;293.02;0.79;(0.27%);2025-04-18
+212;L3harris Technologies, Inc.;LHX;0.09%;218.22;-0.66;(-0.30%);2025-04-18
+213;Monster Beverage Corporation;MNST;0.09%;58.41;0.46;(0.79%);2025-04-18
+214;Corteva, Inc.;CTVA;0.09%;59.74;0.54;(0.91%);2025-04-18
+215;Phillips 66;PSX;0.09%;99.10;2.53;(2.62%);2025-04-18
+216;Yum! Brands, Inc.;YUM;0.09%;143.31;0.74;(0.52%);2025-04-18
+217;Quanta Services, Inc.;PWR;0.09%;267.22;-2.23;(-0.83%);2025-04-18
+218;Xcel Energy, Inc.;XEL;0.09%;70.13;1.03;(1.49%);2025-04-18
+219;Vistra Corp.;VST;0.09%;115.42;-0.45;(-0.39%);2025-04-18
+220;Discover Financial Services;DFS;0.09%;159.63;3.32;(2.12%);2025-04-18
+221;Marathon Petroleum Corporation;MPC;0.09%;127.72;3.65;(2.94%);2025-04-18
+222;Consolidated Edison, Inc.;ED;0.09%;112.10;0.66;(0.59%);2025-04-18
+223;Cummins Inc.;CMI;0.09%;281.81;1.25;(0.45%);2025-04-18
+224;Otis Worldwide Corporation;OTIS;0.09%;98.52;1.74;(1.80%);2025-04-18
+225;United Rentals, Inc.;URI;0.09%;591.50;6.27;(1.07%);2025-04-18
+226;Te Connectivity Plc;TEL;0.08%;129.24;2.34;(1.84%);2025-04-18
+227;Baker Hughes Company;BKR;0.08%;38.91;0.78;(2.05%);2025-04-18
+228;Targa Resources Corp.;TRGP;0.08%;174.57;1.89;(1.09%);2025-04-18
+229;Pg&e Corporation;PCG;0.08%;17.23;0.05;(0.29%);2025-04-18
+230;Ametek, Inc.;AME;0.08%;157.81;-0.71;(-0.45%);2025-04-18
+231;Ford Motor Company;F;0.08%;9.63;0.23;(2.45%);2025-04-18
+232;Fidelity National Information Services, Inc.;FIS;0.08%;74.58;5.94;(8.65%);2025-04-18
+233;Hess Corporation;HES;0.08%;130.64;2.69;(2.10%);2025-04-18
+234;Entergy Corporation;ETR;0.08%;83.27;1.03;(1.25%);2025-04-18
+235;Prudential Financial, Inc.;PRU;0.08%;99.47;0.85;(0.86%);2025-04-18
+236;Cbre Group, Inc.;CBRE;0.08%;117.62;0.41;(0.35%);2025-04-18
+237;Arch Capital Group Ltd;ACGL;0.08%;92.57;0.19;(0.21%);2025-04-18
+238;Cognizant Technology Solutions;CTSH;0.08%;69.44;-0.57;(-0.81%);2025-04-18
+239;Sysco Corporation;SYY;0.08%;71.74;1.05;(1.49%);2025-04-18
+240;Take-Two Interactive Software Inc;TTWO;0.08%;212.77;1.37;(0.65%);2025-04-18
+241;Humana Inc.;HUM;0.08%;264.48;-21.13;(-7.40%);2025-04-18
+242;Wec Energy Group, Inc.;WEC;0.08%;108.39;1.03;(0.96%);2025-04-18
+243;Valero Energy Corporation;VLO;0.08%;110.06;2.93;(2.73%);2025-04-18
+244;Electronic Arts Inc;EA;0.08%;145.61;2.64;(1.85%);2025-04-18
+245;Vici Properties Inc.;VICI;0.08%;32.54;0.49;(1.53%);2025-04-18
+246;The Hartford Financial Services Group, Inc.;HIG;0.08%;117.80;0.65;(0.55%);2025-04-18
+247;D.R. Horton Inc.;DHI;0.07%;121.25;3.71;(3.16%);2025-04-18
+248;Costar Group Inc;CSGP;0.07%;79.70;0.68;(0.86%);2025-04-18
+249;Idexx Laboratories Inc;IDXX;0.07%;411.49;9.11;(2.26%);2025-04-18
+250;Cardinal Health, Inc.;CAH;0.07%;134.71;0.35;(0.26%);2025-04-18
+251;Willis Towers Watson Public Limited Companys;WTW;0.07%;321.00;-3.73;(-1.15%);2025-04-18
+252;Charter Comm Inc Del Cl a;CHTR;0.07%;338.96;6.46;(1.94%);2025-04-18
+253;Corning Incorporated;GLW;0.07%;41.52;0.24;(0.58%);2025-04-18
+254;Vulcan Materials Company;VMC;0.07%;241.93;1.38;(0.57%);2025-04-18
+255;Ebay Inc;EBAY;0.07%;66.26;0.79;(1.21%);2025-04-18
+256;General Mills, Inc.;GIS;0.07%;57.51;1.04;(1.84%);2025-04-18
+257;Resmed Inc.;RMD;0.07%;212.91;1.42;(0.67%);2025-04-18
+258;Gartner, Inc.;IT;0.07%;401.65;-0.64;(-0.16%);2025-04-18
+259;Centene Corporation;CNC;0.07%;60.70;-1.28;(-2.07%);2025-04-18
+260;Eqt Corp;EQT;0.07%;50.98;0.13;(0.26%);2025-04-18
+261;Martin Marietta Materials;MLM;0.07%;494.24;3.17;(0.65%);2025-04-18
+262;Nasdaq, Inc.;NDAQ;0.07%;72.18;0.49;(0.68%);2025-04-18
+263;Ventas, Inc.;VTR;0.07%;67.93;0.30;(0.44%);2025-04-18
+264;Extra Space Storage, Inc.;EXR;0.07%;141.18;2.96;(2.14%);2025-04-18
+265;Agilent Technologies Inc.;A;0.07%;102.48;-0.22;(-0.21%);2025-04-18
+266;Garmin Ltd;GRMN;0.06%;190.61;1.65;(0.87%);2025-04-18
+267;Wabtec Inc.;WAB;0.06%;170.93;1.22;(0.72%);2025-04-18
+268;Ingersoll Rand Inc.;IR;0.06%;72.04;0.68;(0.95%);2025-04-18
+269;American Water Works Company, Inc;AWK;0.06%;148.40;2.00;(1.37%);2025-04-18
+270;Constellation Brands, Inc.;STZ;0.06%;186.63;3.60;(1.97%);2025-04-18
+271;Avalonbay Communities, Inc.;AVB;0.06%;203.38;3.32;(1.66%);2025-04-18
+272;Brown & Brown, Inc.;BRO;0.06%;117.22;-1.58;(-1.33%);2025-04-18
+273;Ge Healthcare Technologies Inc.;GEHC;0.06%;62.37;0.89;(1.45%);2025-04-18
+274;Lululemon Athletica Inc.;LULU;0.06%;251.08;1.71;(0.69%);2025-04-18
+275;Old Dominion Freight Line;ODFL;0.06%;153.75;5.90;(3.99%);2025-04-18
+276;Broadridge Financial Solutions Inc;BR;0.06%;235.85;0.56;(0.24%);2025-04-18
+277;Dte Energy Company;DTE;0.06%;133.55;1.53;(1.16%);2025-04-18
+278;Equifax, Incorporated;EFX;0.06%;221.25;1.97;(0.90%);2025-04-18
+279;Dexcom, Inc.;DXCM;0.06%;68.57;-0.16;(-0.23%);2025-04-18
+280;Xylem Inc;XYL;0.06%;110.42;1.23;(1.13%);2025-04-18
+281;Ameren Corporation;AEE;0.06%;98.65;0.65;(0.66%);2025-04-18
+282;Ansys Inc;ANSS;0.06%;302.74;1.15;(0.38%);2025-04-18
+283;Tractor Supply Co;TSCO;0.06%;50.16;0.80;(1.62%);2025-04-18
+284;M&t Bank Corp.;MTB;0.06%;160.23;1.33;(0.84%);2025-04-18
+285;Ppl Corporation;PPL;0.06%;35.72;0.44;(1.25%);2025-04-18
+286;Delta Air Lines, Inc.;DAL;0.06%;40.85;0.26;(0.64%);2025-04-18
+287;Dell Technologies Inc.;DELL;0.06%;84.80;1.44;(1.73%);2025-04-18
+288;Occidental Petroleum Corporation;OXY;0.06%;39.71;1.26;(3.28%);2025-04-18
+289;Rockwell Automation, Inc.;ROK;0.06%;232.29;4.18;(1.83%);2025-04-18
+290;Nucor Corporation;NUE;0.06%;110.50;1.55;(1.42%);2025-04-18
+291;Church & Dwight Co., Inc.;CHD;0.06%;105.37;2.41;(2.34%);2025-04-18
+292;The Kraft Heinz Company;KHC;0.06%;29.46;0.65;(2.26%);2025-04-18
+293;Monolithic Power Systems, Inc.;MPWR;0.06%;523.58;-1.28;(-0.24%);2025-04-18
+294;Iqvia Holdings Inc.;IQV;0.06%;143.91;-4.53;(-3.05%);2025-04-18
+295;Atmos Energy Corporation;ATO;0.06%;157.54;1.23;(0.79%);2025-04-18
+296;Dupont De Nemours, Inc.;DD;0.06%;60.14;0.89;(1.50%);2025-04-18
+297;Tyler Technologies, Inc.;TYL;0.05%;570.20;0.91;(0.16%);2025-04-18
+298;Diamondback Energy, Inc.;FANG;0.05%;137.64;7.42;(5.70%);2025-04-18
+299;International Paper Co.;IP;0.05%;46.28;-0.02;(-0.04%);2025-04-18
+300;The Hershey Company;HSY;0.05%;166.59;2.36;(1.44%);2025-04-18
+301;Iron Mountain Inc.;IRM;0.05%;84.21;1.58;(1.91%);2025-04-18
+302;Sba Communications Corp;SBAC;0.05%;229.06;3.39;(1.50%);2025-04-18
+303;Raymond James Financial, Inc.;RJF;0.05%;133.46;1.28;(0.97%);2025-04-18
+304;Godaddy Inc;GDDY;0.05%;171.78;-0.42;(-0.24%);2025-04-18
+305;Texas Pacific Land Corporation;TPL;0.05%;1,298.64;21.06;(1.65%);2025-04-18
+306;Lennar Corporation Class A;LEN;0.05%;104.73;1.97;(1.92%);2025-04-18
+307;Centerpoint Energy, Inc.;CNP;0.05%;37.16;0.38;(1.03%);2025-04-18
+308;Keysight Technologies, Inc.;KEYS;0.05%;135.46;0.67;(0.50%);2025-04-18
+309;Darden Restaurants, Inc.;DRI;0.05%;200.22;2.35;(1.19%);2025-04-18
+310;Fifth Third Bancorp;FITB;0.05%;34.15;-0.25;(-0.73%);2025-04-18
+311;State Street Corporation;STT;0.05%;81.26;1.63;(2.05%);2025-04-18
+312;Equity Residential;EQR;0.05%;68.24;1.19;(1.77%);2025-04-18
+313;Ppg Industries, Inc.;PPG;0.05%;100.05;1.63;(1.66%);2025-04-18
+314;Cboe Global Markets, Inc.;CBOE;0.05%;217.07;-0.90;(-0.41%);2025-04-18
+315;Dover Corporation;DOV;0.05%;161.08;-0.88;(-0.54%);2025-04-18
+316;Fortive Corporation;FTV;0.05%;65.44;0.44;(0.68%);2025-04-18
+317;Kellanova;K;0.05%;82.37;0.08;(0.10%);2025-04-18
+318;Veralto Corporation;VLTO;0.05%;89.54;0.21;(0.24%);2025-04-18
+319;Archer Daniels Midland Company;ADM;0.05%;47.82;1.69;(3.66%);2025-04-18
+320;United Airlines Holdings, Inc.;UAL;0.05%;66.30;-0.69;(-1.03%);2025-04-18
+321;Expand Energy Corporation;EXE;0.05%;106.47;1.72;(1.64%);2025-04-18
+322;Hp Inc.;HPQ;0.05%;23.83;0.36;(1.53%);2025-04-18
+323;Edison International;EIX;0.05%;57.39;1.06;(1.88%);2025-04-18
+324;Steris Plc;STE;0.05%;222.23;2.21;(1.00%);2025-04-18
+325;Cms Energy Corporation;CMS;0.05%;72.91;0.74;(1.03%);2025-04-18
+326;Teledyne Technologies Incorporated;TDY;0.05%;462.19;1.30;(0.28%);2025-04-18
+327;Corpay, Inc.;CPAY;0.05%;308.73;1.96;(0.64%);2025-04-18
+328;Eversource Energy;ES;0.05%;57.44;-0.62;(-1.07%);2025-04-18
+329;Mettler-Toledo International;MTD;0.05%;1,004.96;-11.69;(-1.15%);2025-04-18
+330;Nvr, Inc.;NVR;0.05%;7,190.07;145.06;(2.06%);2025-04-18
+331;Firstenergy Corp.;FE;0.05%;42.02;1.22;(2.99%);2025-04-18
+332;Global Payments, Inc.;GPN;0.05%;69.46;-14.66;(-17.43%);2025-04-18
+333;W.R. Berkley Corporation;WRB;0.05%;68.80;0.35;(0.51%);2025-04-18
+334;Cincinnati Financial Corp;CINF;0.05%;132.24;0.13;(0.10%);2025-04-18
+335;Microchip Technology Inc;MCHP;0.05%;38.56;0.61;(1.61%);2025-04-18
+336;Smurfit Westrock Plc;SW;0.05%;41.35;0.58;(1.42%);2025-04-18
+337;Verisign Inc;VRSN;0.04%;246.67;0.74;(0.30%);2025-04-18
+338;Nrg Energy, Inc.;NRG;0.04%;97.86;-0.23;(-0.23%);2025-04-18
+339;Cdw Corporation;CDW;0.04%;151.47;2.70;(1.81%);2025-04-18
+340;Live Nation Entertainment Inc.;LYV;0.04%;127.22;1.76;(1.40%);2025-04-18
+341;Dollar General Corp.;DG;0.04%;93.07;3.71;(4.15%);2025-04-18
+342;Hewlett Packard Enterprise Company;HPE;0.04%;15.14;0.26;(1.75%);2025-04-18
+343;Zimmer Biomet Holdings, Inc.;ZBH;0.04%;97.92;0.98;(1.01%);2025-04-18
+344;Huntington Bancshares Inc;HBAN;0.04%;13.67;0.40;(3.01%);2025-04-18
+345;Devon Energy Corporation;DVN;0.04%;30.31;1.01;(3.45%);2025-04-18
+346;Dow Inc.;DOW;0.04%;28.15;0.68;(2.48%);2025-04-18
+347;Waters Corp;WAT;0.04%;321.01;-0.09;(-0.03%);2025-04-18
+348;T Rowe Price Group Inc;TROW;0.04%;86.11;0.74;(0.87%);2025-04-18
+349;Coterra Energy Inc.;CTRA;0.04%;25.85;0.22;(0.86%);2025-04-18
+350;Invitation Homes Inc.;INVH;0.04%;33.62;0.58;(1.76%);2025-04-18
+351;Pultegroup, Inc.;PHM;0.04%;94.95;2.09;(2.25%);2025-04-18
+352;Expedia Group, Inc.;EXPE;0.04%;151.15;-1.42;(-0.93%);2025-04-18
+353;Weyerhaeuser Company;WY;0.04%;25.81;0.22;(0.86%);2025-04-18
+354;Halliburton Company;HAL;0.04%;22.53;1.10;(5.13%);2025-04-18
+355;Carnival Corporation;CCL;0.04%;17.99;0.12;(0.67%);2025-04-18
+356;Mccormick & Company, Incorporated Non-Vtg Cs;MKC;0.04%;75.32;1.78;(2.42%);2025-04-18
+357;Labcorp Holdings Inc.;LH;0.04%;217.12;-3.45;(-1.56%);2025-04-18
+358;Molina Healthcare, Inc.;MOH;0.04%;322.19;-10.19;(-3.07%);2025-04-18
+359;Leidos Holdings, Inc.;LDOS;0.04%;139.42;-0.48;(-0.34%);2025-04-18
+360;Quest Diagnostics Inc.;DGX;0.04%;163.80;-0.67;(-0.41%);2025-04-18
+361;Synchrony Financial;SYF;0.04%;47.87;1.11;(2.37%);2025-04-18
+362;Hubbell Incorporated;HUBB;0.04%;338.97;0.19;(0.06%);2025-04-18
+363;Nisource Inc.;NI;0.04%;39.29;0.34;(0.87%);2025-04-18
+364;International Flavors & Fragrances Inc.;IFF;0.04%;72.50;1.44;(2.03%);2025-04-18
+365;Mid-America Apartment Communities, Inc.;MAA;0.04%;157.08;3.26;(2.12%);2025-04-18
+366;Warner Bros. Discovery, Inc. Series a;WBD;0.04%;8.11;0.19;(2.40%);2025-04-18
+367;Lennox International Inc.;LII;0.04%;556.15;8.29;(1.51%);2025-04-18
+368;Insulet Corporation;PODD;0.04%;246.80;-3.93;(-1.57%);2025-04-18
+369;Essex Property Trust, Inc;ESS;0.04%;275.29;3.39;(1.25%);2025-04-18
+370;Snap-on Incorporated;SNA;0.04%;305.44;-26.56;(-8.00%);2025-04-18
+371;Regions Financial Corp.;RF;0.04%;19.31;0.14;(0.73%);2025-04-18
+372;Ptc, Inc;PTC;0.04%;143.56;-0.42;(-0.29%);2025-04-18
+373;Tyson Foods, Inc.;TSN;0.04%;61.21;0.55;(0.91%);2025-04-18
+374;Northern Trust Corp;NTRS;0.04%;88.30;0.86;(0.99%);2025-04-18
+375;Clorox Company;CLX;0.04%;139.78;2.98;(2.18%);2025-04-18
+376;Williams-Sonoma, Inc.;WSM;0.04%;139.21;1.59;(1.16%);2025-04-18
+377;Biogen Inc.;BIIB;0.04%;118.61;3.32;(2.88%);2025-04-18
+378;Packaging Corp of America;PKG;0.04%;187.19;0.45;(0.24%);2025-04-18
+379;Steel Dynamics Inc;STLD;0.04%;118.29;1.08;(0.92%);2025-04-18
+380;Netapp, Inc;NTAP;0.04%;82.61;1.26;(1.55%);2025-04-18
+381;Factset Research Systems;FDS;0.04%;427.05;-0.18;(-0.04%);2025-04-18
+382;Ulta Beauty, Inc.;ULTA;0.04%;357.75;8.16;(2.33%);2025-04-18
+383;Super Micro Computer, Inc.;SMCI;0.04%;31.51;-0.39;(-1.21%);2025-04-18
+384;Domino's Pizza Inc.;DPZ;0.04%;466.74;4.49;(0.97%);2025-04-18
+385;Deckers Outdoor Corp;DECK;0.03%;105.67;2.65;(2.57%);2025-04-18
+386;Genuine Parts Company;GPC;0.03%;114.10;1.93;(1.72%);2025-04-18
+387;The Cooper Companies, Inc.;COO;0.03%;79.51;1.28;(1.64%);2025-04-18
+388;Alliant Energy Corporation;LNT;0.03%;60.80;0.38;(0.63%);2025-04-18
+389;Citizens Financial Group, Inc.;CFG;0.03%;35.45;-0.01;(-0.03%);2025-04-18
+390;Rollins, Inc.;ROL;0.03%;55.78;0.77;(1.40%);2025-04-18
+391;Evergy, Inc.;EVRG;0.03%;68.37;0.94;(1.39%);2025-04-18
+392;Seagate Technology Holdings Plcs;STX;0.03%;75.78;2.96;(4.06%);2025-04-18
+393;West Pharmaceutical Services, Inc.;WST;0.03%;201.90;-7.23;(-3.46%);2025-04-18
+394;Principal Financial Group, Inc.;PFG;0.03%;72.14;0.50;(0.70%);2025-04-18
+395;Loews Corporation;L;0.03%;85.32;0.12;(0.14%);2025-04-18
+396;Everest Group, Ltd.;EG;0.03%;349.93;2.33;(0.67%);2025-04-18
+397;F5, Inc.;FFIV;0.03%;258.61;-0.37;(-0.14%);2025-04-18
+398;Dollar Tree Inc.;DLTR;0.03%;79.14;5.93;(8.10%);2025-04-18
+399;Expeditors International of Washington, Inc.;EXPD;0.03%;106.70;1.22;(1.16%);2025-04-18
+400;Southwest Airlines Co.;LUV;0.03%;24.74;-0.12;(-0.48%);2025-04-18
+401;Jabil Inc.;JBL;0.03%;135.04;1.17;(0.87%);2025-04-18
+402;Lyondellbasell Industries N.v. Class A;LYB;0.03%;56.77;0.83;(1.48%);2025-04-18
+403;On Semiconductor Corp;ON;0.03%;34.64;0.39;(1.14%);2025-04-18
+404;Jacobs Solutions Inc.;J;0.03%;117.22;0.64;(0.55%);2025-04-18
+405;Baxter International Inc.;BAX;0.03%;28.89;1.07;(3.85%);2025-04-18
+406;Trimble Inc.;TRMB;0.03%;58.23;-0.05;(-0.09%);2025-04-18
+407;Ball Corporation;BALL;0.03%;47.38;0.31;(0.66%);2025-04-18
+408;Keycorp;KEY;0.03%;14.27;0.20;(1.42%);2025-04-18
+409;Omnicom Group Inc.;OMC;0.03%;73.24;2.00;(2.81%);2025-04-18
+410;Kimco Realty Corp.;KIM;0.03%;20.59;0.43;(2.13%);2025-04-18
+411;Avery Dennison Corp.;AVY;0.03%;170.85;2.70;(1.61%);2025-04-18
+412;Amcor Plcs;AMCR;0.03%;9.39;0.14;(1.51%);2025-04-18
+413;First Solar, Inc.;FSLR;0.03%;127.98;3.60;(2.89%);2025-04-18
+414;Pentair Plc;PNR;0.03%;80.36;-0.36;(-0.45%);2025-04-18
+415;Gen Digital Inc.;GEN;0.03%;24.45;0.15;(0.62%);2025-04-18
+416;Builders Firstsource, Inc.;BLDR;0.03%;116.94;3.88;(3.43%);2025-04-18
+417;Tapestry, Inc.;TPR;0.03%;63.64;0.77;(1.22%);2025-04-18
+418;Healthpeak Properties, Inc.;DOC;0.03%;18.75;0.17;(0.91%);2025-04-18
+419;Masco Corporation;MAS;0.03%;61.58;0.70;(1.15%);2025-04-18
+420;Cf Industries Holding, Inc.;CF;0.03%;74.90;0.80;(1.08%);2025-04-18
+421;Hologic Inc;HOLX;0.03%;57.56;1.06;(1.88%);2025-04-18
+422;Henry (Jack) & Associates;JKHY;0.03%;171.83;-0.05;(-0.03%);2025-04-18
+423;Idex Corporation;IEX;0.03%;163.95;-0.13;(-0.08%);2025-04-18
+424;Western Digital Corp.;WDC;0.03%;36.51;0.89;(2.50%);2025-04-18
+425;The Estee Lauder Companies Inc. Class A;EL;0.03%;54.47;1.81;(3.44%);2025-04-18
+426;Udr, Inc.;UDR;0.03%;41.29;0.42;(1.03%);2025-04-18
+427;The J.M. Smucker Company;SJM;0.03%;116.44;1.60;(1.39%);2025-04-18
+428;Conagra Brands, Inc.;CAG;0.03%;25.33;0.43;(1.73%);2025-04-18
+429;Alexandria Real Estate Equities, Inc.;ARE;0.03%;77.84;0.72;(0.93%);2025-04-18
+430;Textron, Inc.;TXT;0.03%;66.04;1.06;(1.63%);2025-04-18
+431;Camden Property Trust;CPT;0.03%;112.28;2.08;(1.89%);2025-04-18
+432;Align Technology Inc;ALGN;0.03%;171.41;4.23;(2.53%);2025-04-18
+433;Best Buy Company, Inc.;BBY;0.03%;61.97;2.34;(3.92%);2025-04-18
+434;Aptiv Plc;APTV;0.03%;51.71;1.00;(1.97%);2025-04-18
+435;Teradyne, Inc.;TER;0.03%;71.25;0.09;(0.13%);2025-04-18
+436;Zebra Technologies Corporation;ZBRA;0.03%;226.73;1.97;(0.88%);2025-04-18
+437;Regency Centers Corporation;REG;0.03%;71.66;1.45;(2.07%);2025-04-18
+438;Pool Corporation;POOL;0.03%;306.25;4.90;(1.63%);2025-04-18
+439;Revvity, Inc.;RVTY;0.03%;91.82;-1.93;(-2.06%);2025-04-18
+440;Juniper Networks Inc;JNPR;0.03%;34.33;-0.16;(-0.46%);2025-04-18
+441;Akamai Technologies Inc;AKAM;0.02%;73.46;-0.35;(-0.47%);2025-04-18
+442;Las Vegas Sands Corp.;LVS;0.02%;32.77;0.91;(2.86%);2025-04-18
+443;Allegion Public Limited Company;ALLE;0.02%;126.35;1.22;(0.97%);2025-04-18
+444;Lkq Corporation;LKQ;0.02%;42.03;0.65;(1.57%);2025-04-18
+445;Pinnacle West Capital Corporation;PNW;0.02%;94.45;1.04;(1.11%);2025-04-18
+446;C.H. Robinson Worldwide, Inc.;CHRW;0.02%;91.14;1.28;(1.42%);2025-04-18
+447;Fox Corporation Class A;FOXA;0.02%;47.97;-0.29;(-0.60%);2025-04-18
+448;Erie Indemnity Co;ERIE;0.02%;410.95;-0.93;(-0.23%);2025-04-18
+449;Universal Health Services, Inc. Class B;UHS;0.02%;174.80;1.14;(0.66%);2025-04-18
+450;Bunge Global Sa;BG;0.02%;78.96;2.58;(3.38%);2025-04-18
+451;Globe Life Inc.;GL;0.02%;121.25;0.03;(0.02%);2025-04-18
+452;Paycom Software, Inc.;PAYC;0.02%;216.91;1.38;(0.64%);2025-04-18
+453;Molson Coors Beverage Company Class B;TAP;0.02%;58.75;0.04;(0.07%);2025-04-18
+454;Jb Hunt Transport Services Inc;JBHT;0.02%;129.23;4.50;(3.61%);2025-04-18
+455;Carmax Inc.;KMX;0.02%;64.59;0.48;(0.75%);2025-04-18
+456;Tko Group Holdings, Inc.;TKO;0.02%;149.22;1.26;(0.85%);2025-04-18
+457;Nordson Corp;NDSN;0.02%;180.81;0.12;(0.07%);2025-04-18
+458;Assurant, Inc.;AIZ;0.02%;188.97;-1.35;(-0.71%);2025-04-18
+459;News Corporation Class A;NWSA;0.02%;25.86;0.19;(0.74%);2025-04-18
+460;Host Hotels & Resorts, Inc.;HST;0.02%;13.66;0.25;(1.86%);2025-04-18
+461;Incyte Genomics Inc;INCY;0.02%;58.21;0.48;(0.83%);2025-04-18
+462;Bxp, Inc.;BXP;0.02%;63.88;0.81;(1.28%);2025-04-18
+463;Solventum Corporation;SOLV;0.02%;66.26;0.59;(0.90%);2025-04-18
+464;Skyworks Solutions Inc;SWKS;0.02%;55.98;0.12;(0.21%);2025-04-18
+465;Eastman Chemical Company;EMN;0.02%;76.76;-0.03;(-0.04%);2025-04-18
+466;Viatris Inc.;VTRS;0.02%;7.56;0.17;(2.30%);2025-04-18
+467;Hormel Foods Corporation;HRL;0.02%;30.58;0.40;(1.33%);2025-04-18
+468;Stanley Black & Decker, Inc.;SWK;0.02%;57.21;0.40;(0.70%);2025-04-18
+469;Dayforce, Inc.;DAY;0.02%;54.15;-0.85;(-1.55%);2025-04-18
+470;The Interpublic Group of Companies, Inc.;IPG;0.02%;23.94;0.67;(2.88%);2025-04-18
+471;Moderna, Inc.;MRNA;0.02%;24.72;-0.48;(-1.89%);2025-04-18
+472;The Mosaic Company;MOS;0.02%;27.27;0.30;(1.11%);2025-04-18
+473;Huntington Ingalls Industries, Inc.;HII;0.02%;219.48;3.88;(1.80%);2025-04-18
+474;Marketaxess Holdings Inc.;MKTX;0.02%;225.16;2.43;(1.09%);2025-04-18
+475;Epam Systems, Inc.;EPAM;0.02%;147.16;-0.12;(-0.08%);2025-04-18
+476;Ralph Lauren Corporation;RL;0.02%;206.50;4.45;(2.20%);2025-04-18
+477;Bio-Techne Corp.;TECH;0.02%;48.10;-1.88;(-3.75%);2025-04-18
+478;Henry Schein Inc;HSIC;0.02%;64.73;1.44;(2.28%);2025-04-18
+479;Walgreens Boots Alliance, Inc;WBA;0.02%;10.89;0.09;(0.83%);2025-04-18
+480;Lamb Weston Holdings, Inc.;LW;0.02%;53.56;0.16;(0.30%);2025-04-18
+481;A.O. Smith Corporation;AOS;0.02%;63.14;0.28;(0.45%);2025-04-18
+482;The Campbell's Company;CPB;0.02%;37.53;0.68;(1.85%);2025-04-18
+483;Match Group, Inc;MTCH;0.02%;29.02;0.37;(1.29%);2025-04-18
+484;Aes Corporation;AES;0.02%;10.18;0.22;(2.21%);2025-04-18
+485;Norwegian Cruise Line Holdings Ltd.s;NCLH;0.02%;16.38;0.29;(1.80%);2025-04-18
+486;Federal Realty Investment Trust;FRT;0.02%;93.72;1.65;(1.79%);2025-04-18
+487;Enphase Energy, Inc.;ENPH;0.02%;52.54;0.79;(1.53%);2025-04-18
+488;Hasbro, Inc.;HAS;0.02%;52.65;0.77;(1.48%);2025-04-18
+489;Wynn Resorts Ltd;WYNN;0.01%;74.77;1.04;(1.41%);2025-04-18
+490;Generac Holdings Inc;GNRC;0.01%;111.72;1.07;(0.97%);2025-04-18
+491;Mgm Resorts International;MGM;0.01%;28.90;0.44;(1.55%);2025-04-18
+492;Paramount Global Class B;PARA;0.01%;10.94;0.23;(2.15%);2025-04-18
+493;Davita Inc.;DVA;0.01%;140.03;-1.47;(-1.04%);2025-04-18
+494;Albemarle Corporation;ALB;0.01%;52.91;0.34;(0.65%);2025-04-18
+495;Brown-Forman Corporation Class B;BF.B;0.01%;33.79;0.77;(2.33%);2025-04-18
+496;Fox Corporation Class B;FOX;0.01%;44.57;-0.13;(-0.29%);2025-04-18
+497;Invesco Ltd;IVZ;0.01%;12.80;0.16;(1.27%);2025-04-18
+498;Apa Corporation;APA;0.01%;16.11;0.74;(4.81%);2025-04-18
+499;Franklin Resources, Inc.;BEN;0.01%;17.61;0.06;(0.34%);2025-04-18
+500;Charles River Laboratories International, Inc.;CRL;0.01%;106.05;1.80;(1.73%);2025-04-18
+501;Mohawk Industries, Inc.;MHK;0.01%;102.69;1.77;(1.75%);2025-04-18
+502;Caesars Entertainment, Inc.;CZR;0.01%;25.51;0.76;(3.07%);2025-04-18
+503;News Corporation Class B;NWS;0.01%;30.00;0.25;(0.84%);2025-04-18
