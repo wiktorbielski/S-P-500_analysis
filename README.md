@@ -13,7 +13,7 @@ This project extracts, analyzes, and visualizes data from the S&P 500 stock mark
   
 ---
 
-## 🔍 Key Analysis and Visualizations
+## Key Analysis and Visualizations
 
 ### 1. Top Gainers and Losers (Last 14 Days)
 - Extracts the top 10 gainers and losers based on percentage change over the last 14 days
